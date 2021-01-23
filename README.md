@@ -1,2 +1,2 @@
 # hidroapi
-Support API Testing. Power by .NET
+Support for API Testing. Power by .NET
